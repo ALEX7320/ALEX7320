@@ -1,7 +1,6 @@
-<div align="center">
-<h1 align="center">Hola, soy Alex 👋</h1>
-</div>
+
 <img src="https://i.postimg.cc/s2Qn9PBd/portada-Git.jpg">
+<h3 align="center">Hola, soy Alex 👋</h3>
 
 ### Sobre mi
 
