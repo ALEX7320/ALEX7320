@@ -19,7 +19,7 @@
 <table>
 <tr>
 
-<td width="33.3333%">
+<td width="50%">
 <h3 align="center">Texto a voz App | Python3 & PyQt (Open Source)</h3>
 <div align="center">
 <a href="https://github.com/ALEX7320/new-voixer" target="_blank">
@@ -31,7 +31,7 @@ y sencilla, además podrás guardarlo en archivos de audio.
 </div>
 </td>
 
-<td width="33.3333%">
+<td width="50%">
 <h3 align="center">Guía: Aprende a crear PDF en Python</h3>
 <div align="center">
 <a href="https://github.com/ALEX7320/guia-pdf-python" target="_blank">
@@ -42,7 +42,14 @@ documento a corde tus necesidades, la guia es completamente gratis y se encuentr
 </div>
 </td>
 
-<td width="33.3333%">
+</table>
+
+
+
+<table>
+<tr>
+
+<td width="50%">
 <h3 align="center">Metodos y eventos (Widgets PyQT)</h3>
 <div align="center">
 <a href="https://github.com/ALEX7320/documentacionpyqt#metodos-y-eventos-widgets-pyqt" target="_blank">
