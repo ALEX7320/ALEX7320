@@ -46,7 +46,10 @@ documento a corde tus necesidades, la guia es completamente gratis y se encuentr
 
 
 
-<table  width="50%">
+
+
+
+<table>
 <tr>
 
 <td width="50%">
@@ -57,11 +60,16 @@ documento a corde tus necesidades, la guia es completamente gratis y se encuentr
 </a>
 <p>Documentación interactiva con los widgets de QT (Pyside2), para ver 
 los comentarios, dirijase a su respectivo paquete y modulo (main).
-
 </p>
 </div>
 </td>
 
+<td width="50%">
+
+</td>
+
 </table>
+
+
 
 
