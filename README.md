@@ -15,11 +15,10 @@
 <br>
 
 ### Marcadores
-
 <table>
 <tr>
 
-<td width="50%">
+<td width="33.3333%">
 <h3 align="center">Texto a voz App | Python3 & PyQt (Open Source)</h3>
 <div align="center">
 <a href="https://github.com/ALEX7320/new-voixer" target="_blank">
@@ -31,7 +30,7 @@ y sencilla, además podrás guardarlo en archivos de audio.
 </div>
 </td>
 
-<td width="50%">
+<td width="33.3333%">
 <h3 align="center">Guía: Aprende a crear PDF en Python</h3>
 <div align="center">
 <a href="https://github.com/ALEX7320/guia-pdf-python" target="_blank">
@@ -42,34 +41,19 @@ documento a corde tus necesidades, la guia es completamente gratis y se encuentr
 </div>
 </td>
 
-</table>
-
-
-
-
-
-
-<table>
-<tr>
-
-<td width="50%">
+<td width="33.3333%">
 <h3 align="center">Metodos y eventos (Widgets PyQT)</h3>
 <div align="center">
 <a href="https://github.com/ALEX7320/documentacionpyqt#metodos-y-eventos-widgets-pyqt" target="_blank">
-<img src="https://i.postimg.cc/FRW3WzYt/git-qt.jpg" width="95%" alt="img" style="max-width:250px">
+<img src="https://i.postimg.cc/FRW3WzYt/git-qt.jpg" width="95%" alt="img">
 </a>
 <p>Documentación interactiva con los widgets de QT (Pyside2), para ver 
 los comentarios, dirijase a su respectivo paquete y modulo (main).
+</tr>
 </p>
 </div>
 </td>
 
-<td width="50%">
-
-</td>
-
 </table>
-
-
 
 
