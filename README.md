@@ -46,7 +46,7 @@ documento a corde tus necesidades, la guia es completamente gratis y se encuentr
 
 
 
-<table>
+<table  width="50%">
 <tr>
 
 <td width="50%">
