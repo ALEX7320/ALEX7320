@@ -53,7 +53,7 @@ documento a corde tus necesidades, la guia es completamente gratis y se encuentr
 <h3 align="center">Metodos y eventos (Widgets PyQT)</h3>
 <div align="center">
 <a href="https://github.com/ALEX7320/documentacionpyqt#metodos-y-eventos-widgets-pyqt" target="_blank">
-<img src="https://i.postimg.cc/FRW3WzYt/git-qt.jpg" width="95%" alt="img">
+<img src="https://i.postimg.cc/FRW3WzYt/git-qt.jpg" width="95%" alt="img" style="max-width:250px">
 </a>
 <p>Documentación interactiva con los widgets de QT (Pyside2), para ver 
 los comentarios, dirijase a su respectivo paquete y modulo (main).
