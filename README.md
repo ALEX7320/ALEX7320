@@ -15,10 +15,34 @@
 <br>
 
 ### Marcadores
-<table>
-<tr>
 
-<td width="33.3333%">
+<table>
+
+<tr>
+<td width="50%">
+<h3 align="center">Proyecto de Practica: Control de almacén</h3>
+<div align="center">
+<a href="https://github.com/ALEX7320/almacen-app-web-practica" target="_blank">
+<img src="https://i.postimg.cc/j20tnh5j/almacen-pro.jpg" width="95%" alt="img">
+</a>
+<p>Con esta aplicación podemos gestionar los ingresos y salidas de un producto. Proyecto realizado con fines educativos.
+</p>
+</div>
+</td>
+<td width="50%">
+<h3 align="center">Enviar correo con SpringBoot (Gmail)</h3>
+<div align="center">
+<a href="https://github.com/ALEX7320/send-email-springboot" target="_blank">
+<img src="https://i.postimg.cc/vB6GmKGj/mail-spring.jpg" width="95%" alt="img">
+</a>
+<p>En este repositorio te mostraremos un pequeños ejemplo para enviar correo con SpringBoot, hemos creado una plantilla de "Recuperar contraseña" (en HTML).
+</p>
+</div>
+</td>
+</tr>
+
+<tr>
+<td width="50%">
 <h3 align="center">Texto a voz App | Python3 & PyQt (Open Source)</h3>
 <div align="center">
 <a href="https://github.com/ALEX7320/new-voixer" target="_blank">
@@ -29,8 +53,7 @@ y sencilla, además podrás guardarlo en archivos de audio.
 </p>
 </div>
 </td>
-
-<td width="33.3333%">
+<td width="50%">
 <h3 align="center">Guía: Aprende a crear PDF en Python</h3>
 <div align="center">
 <a href="https://github.com/ALEX7320/guia-pdf-python" target="_blank">
@@ -40,19 +63,7 @@ y sencilla, además podrás guardarlo en archivos de audio.
 documento a corde tus necesidades, la guia es completamente gratis y se encuentra en YouTube.</p>
 </div>
 </td>
-
-<td width="33.3333%">
-<h3 align="center">Metodos y eventos (Widgets PyQT)</h3>
-<div align="center">
-<a href="https://github.com/ALEX7320/documentacionpyqt#metodos-y-eventos-widgets-pyqt" target="_blank">
-<img src="https://i.postimg.cc/FRW3WzYt/git-qt.jpg" width="95%" alt="img">
-</a>
-<p>Documentación interactiva con los widgets de QT (Pyside2), para ver 
-los comentarios, dirijase a su respectivo paquete y modulo (main).
 </tr>
-</p>
-</div>
-</td>
 
 </table>
 
